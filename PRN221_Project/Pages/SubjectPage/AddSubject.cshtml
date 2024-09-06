@@ -1,0 +1,17 @@
+﻿@page
+@model PRN221_Project.Pages.SubjectPage.AddSubjectModel
+@{
+}
+<form method="post">
+    <label>Subject Id</label>
+    <input asp-for="SubjectId" type="text" placeholder="Subject Id" /><br />
+    <label>Subject Name</label>
+    <input asp-for="Name" type="text" placeholder="Subject name" /><br />
+    <label>Subject Code</label>
+    <input asp-for="Code" type="text" placeholder="Subject Code" /><br />
+    <label>Profile Id</label>
+    <input asp-for="ProfileId" type="text" placeholder="Profile Id" /><br />
+    <label>Subject Status</label>
+    <input asp-for="Status" type="text" placeholder="Status" /><br />
+    <button type="submit">Save</button>
+</form>

@@ -1,0 +1,59 @@
+﻿@page
+@model PRN221_Project.Pages.Admin.AccountPage.AddAccountModel
+@{
+    Layout = "_AdminLayout";
+}
+
+<div class="mobile-menu-overlay"></div>
+
+<div class="main-container">
+    <div class="pd-ltr-20 xs-pd-20-10">
+        <div class="min-height-200px">
+            <div class="page-header">
+                <div class="row">
+                    <div class="col-md-6 col-sm-12">
+                        @*<div class="title">
+                        <h4>Form</h4>
+                        </div>*@
+                        <nav aria-label="breadcrumb" role="navigation">
+                            <ol class="breadcrumb">
+                                <li class="breadcrumb-item"><a asp-page="Department">Account List</a></li>
+                                <li class="breadcrumb-item active" aria-current="page">Add Account</li>
+                            </ol>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            <!-- Default Basic Forms Start -->
+            <div class="pd-20 card-box mb-30">
+                <p class="alert text-danger">@ViewData["error"]</p>
+                <form method="post">
+                    <div class="form-group row">
+                        <label asp-for="@Model.Profile.Name" class="col-sm-12 col-md-2 col-form-label">Account Name</label>
+                        <div class="col-sm-12 col-md-10">
+                            <input asp-for="@Model.Profile.Name" class="form-control" type="text" placeholder="Account Name">
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label asp-for="@Model.Account.Email" class="col-sm-12 col-md-2 col-form-label">Email</label>
+                        <div class="col-sm-12 col-md-10">
+                            <input asp-for="@Model.Account.Email" class="form-control" type="text" placeholder="Email">
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label asp-for="@Model.Account.Password" class="col-sm-12 col-md-2 col-form-label">Password</label>
+                        <div class="col-sm-12 col-md-10">
+                            <input asp-for="@Model.Account.Password" class="form-control" type="text" placeholder="Password">
+                        </div>
+                    </div>
+                    <div class="btn-list">
+                        <button type="submit" class="btn btn-primary">Save</button>
+                        <a asp-page="ListAccount" type="submit" class="btn btn-danger">Cancel</a>
+                    </div>
+                </form>
+            </div>
+            <!-- Default Basic Forms End -->
+
+        </div>
+    </div>
+</div>

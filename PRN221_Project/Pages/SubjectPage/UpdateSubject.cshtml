@@ -1,0 +1,46 @@
+﻿@page
+@model PRN221_Project.Pages.SubjectPage.UpdateSubjectModel
+@{
+}
+
+<!-- Contact Start -->
+<div class="container-fluid py-5">
+    <div class="container py-5">
+        <div class="text-center mb-5">
+            <h1>Update Subject</h1>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="contact-form bg-secondary rounded p-5">
+                    <div id="success"></div>
+                    <form method="post" name="sentMessage" id="contactForm">
+                        <div class="control-group">
+                            <input asp-for="Subject.SubjectId" type="hidden" class="form-control border-0 p-4" id="name" placeholder="Subject Name" required="required" />
+                            <p class="help-block text-danger"></p>
+                        </div>
+                        <div class="control-group">
+                            <input asp-for="Subject.Name" type="text" class="form-control border-0 p-4" id="name" placeholder="Subject Name" required="required" />
+                            <p class="help-block text-danger"></p>
+                        </div>
+                        <div class="control-group">
+                            <input asp-for="Subject.Code" type="text" class="form-control border-0 p-4" id="email" placeholder="Subject Code" required="required" />
+                            <p class="help-block text-danger"></p>
+                        </div>
+                        <div class="control-group">
+                            <input asp-for="Subject.ProfileId" type="text" class="form-control border-0 p-4" id="subject" placeholder="Profile" required="required" />
+                            <p class="help-block text-danger"></p>
+                        </div>
+                        <div class="control-group">
+                            <input asp-for="Subject.Status" type="text" class="form-control border-0 p-4" id="subject" placeholder="Status" required="required" />
+                            <p class="help-block text-danger"></p>
+                        </div>
+                        <div class="text-center">
+                            <button class="btn btn-primary py-3 px-5" type="submit">Save</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Contact End -->

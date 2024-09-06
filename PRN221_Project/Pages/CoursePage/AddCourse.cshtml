@@ -1,0 +1,19 @@
+﻿@page
+@model PRN221_Project.Pages.CoursePage.AddCourseModel
+@{
+}
+<form method="post">
+    <label>CourseId</label>
+    <input asp-for="CourseId" type="text" placeholder="Course Id" /><br />
+    <label>Subject Title</label>
+    <input asp-for="Title" type="text" placeholder="Subject name" /><br />
+    <label>Subject Description</label>
+    <input asp-for="Description" type="text" placeholder="Subject Code" /><br />
+    <label>Profile Id</label>
+    <input asp-for="ProfileId" type="text" placeholder="Profile Id" /><br />
+    <label>Subject SubjectId</label>
+    <input asp-for="SubjectId" type="text" placeholder="Subject Id" /><br />
+    <label>Subject NumberQuestion</label>
+    <input asp-for="NumberQuestion" type="text" placeholder="NumberQuestion " /><br />
+    <button type="submit">Save</button>
+</form>

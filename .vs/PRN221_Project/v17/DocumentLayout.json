@@ -1,0 +1,687 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\admin\\coursepage\\updatecourse.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\admin\\coursepage\\updatecourse.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\admin\\coursepage\\updatecourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\admin\\coursepage\\updatecourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\admin\\adminhome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\admin\\adminhome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\admin\\adminhome.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\admin\\adminhome.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\admin\\questionpage\\listquestion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\admin\\questionpage\\listquestion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\questionpage\\listquestion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\questionpage\\listquestion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\subjectpage\\updatesubject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\subjectpage\\updatesubject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\subjectpage\\subjectdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\subjectpage\\subjectdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\questionpage\\viewallquestion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\questionpage\\viewallquestion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\coursepage\\listenrollcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\coursepage\\listenrollcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\coursepage\\listenrollcourse.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\coursepage\\listenrollcourse.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\coursepage\\listcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\coursepage\\listcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\coursepage\\listcourse.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\coursepage\\listcourse.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\coursepage\\coursedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\coursepage\\coursedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\coursepage\\detailcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\coursepage\\detailcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\admin\\subjectpage\\listsubject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\admin\\subjectpage\\listsubject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\admin\\coursepage\\listcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\admin\\coursepage\\listcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\admin\\coursepage\\deletecourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\admin\\coursepage\\deletecourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\coursepage\\updatecourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\coursepage\\updatecourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\admin\\coursepage\\listcourse.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\admin\\coursepage\\listcourse.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\admin\\accountpage\\updateaccount.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\admin\\accountpage\\updateaccount.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\admin\\accountpage\\updateaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\admin\\accountpage\\updateaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\admin\\questionpage\\addquestion.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\admin\\questionpage\\addquestion.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\admin\\questionpage\\editquestion.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\admin\\questionpage\\editquestion.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\admin\\questionpage\\editquestion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\admin\\questionpage\\editquestion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\admin\\subjectpage\\updatesubject.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\admin\\subjectpage\\updatesubject.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\admin\\subjectpage\\updatesubject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\admin\\subjectpage\\updatesubject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\admin\\coursepage\\deletecourse.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\admin\\coursepage\\deletecourse.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\coursepage\\detailcourse.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\coursepage\\detailcourse.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\admin\\questionpage\\listquestion.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\admin\\questionpage\\listquestion.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\admin\\accountpage\\listaccount.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\admin\\accountpage\\listaccount.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\subjectpage\\listsubject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\subjectpage\\listsubject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\coursepage\\addcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\coursepage\\addcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|d:\\fu_learning\\final\\prn221_project\\prn221_project\\prn221_project\\prn221_project\\pages\\admin\\accountpage\\listaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8896FF1C-116B-4296-9774-8291FB115FA7}|PRN221_Project\\PRN221_Project.csproj|solutionrelative:prn221_project\\pages\\admin\\accountpage\\listaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 224,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DetailCourse.cshtml",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\CoursePage\\DetailCourse.cshtml",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\CoursePage\\DetailCourse.cshtml",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\CoursePage\\DetailCourse.cshtml",
+              "RelativeToolTip": "PRN221_Project\\Pages\\CoursePage\\DetailCourse.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-20T03:07:28.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ListCourse.cshtml",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\CoursePage\\ListCourse.cshtml",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\CoursePage\\ListCourse.cshtml",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\CoursePage\\ListCourse.cshtml",
+              "RelativeToolTip": "PRN221_Project\\Pages\\CoursePage\\ListCourse.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-31T07:29:59.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SubjectDetails.cshtml",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\SubjectPage\\SubjectDetails.cshtml",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\SubjectPage\\SubjectDetails.cshtml",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\SubjectPage\\SubjectDetails.cshtml",
+              "RelativeToolTip": "PRN221_Project\\Pages\\SubjectPage\\SubjectDetails.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAADUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-20T03:09:22.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "PRN221_Project\\Pages\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAAAJsAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-20T03:07:28.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateCourse.cshtml",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\CoursePage\\UpdateCourse.cshtml",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\Admin\\CoursePage\\UpdateCourse.cshtml",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\CoursePage\\UpdateCourse.cshtml",
+              "RelativeToolTip": "PRN221_Project\\Pages\\Admin\\CoursePage\\UpdateCourse.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADcAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-20T03:07:28.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateCourse.cshtml.cs",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\CoursePage\\UpdateCourse.cshtml.cs",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\Admin\\CoursePage\\UpdateCourse.cshtml.cs",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\CoursePage\\UpdateCourse.cshtml.cs*",
+              "RelativeToolTip": "PRN221_Project\\Pages\\Admin\\CoursePage\\UpdateCourse.cshtml.cs*",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwB0AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-23T13:17:59.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminHome.cshtml",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\AdminHome.cshtml",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\Admin\\AdminHome.cshtml",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\AdminHome.cshtml",
+              "RelativeToolTip": "PRN221_Project\\Pages\\Admin\\AdminHome.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-31T07:35:42.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListQuestion.cshtml",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\QuestionPage\\ListQuestion.cshtml",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\QuestionPage\\ListQuestion.cshtml",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\QuestionPage\\ListQuestion.cshtml",
+              "RelativeToolTip": "PRN221_Project\\Pages\\QuestionPage\\ListQuestion.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-31T07:36:29.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateSubject.cshtml",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\SubjectPage\\UpdateSubject.cshtml",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\SubjectPage\\UpdateSubject.cshtml",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\SubjectPage\\UpdateSubject.cshtml",
+              "RelativeToolTip": "PRN221_Project\\Pages\\SubjectPage\\UpdateSubject.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-31T07:36:43.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminHome.cshtml.cs",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\AdminHome.cshtml.cs",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\Admin\\AdminHome.cshtml.cs",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\AdminHome.cshtml.cs",
+              "RelativeToolTip": "PRN221_Project\\Pages\\Admin\\AdminHome.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T11:53:18.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ListCourse.cshtml.cs",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\CoursePage\\ListCourse.cshtml.cs",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\CoursePage\\ListCourse.cshtml.cs",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\CoursePage\\ListCourse.cshtml.cs",
+              "RelativeToolTip": "PRN221_Project\\Pages\\CoursePage\\ListCourse.cshtml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T07:36:10.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListQuestion.cshtml",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\QuestionPage\\ListQuestion.cshtml",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\Admin\\QuestionPage\\ListQuestion.cshtml",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\QuestionPage\\ListQuestion.cshtml",
+              "RelativeToolTip": "PRN221_Project\\Pages\\Admin\\QuestionPage\\ListQuestion.cshtml",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAswLAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-20T03:07:28.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewAllQuestion.cshtml",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\QuestionPage\\ViewAllQuestion.cshtml",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\QuestionPage\\ViewAllQuestion.cshtml",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\QuestionPage\\ViewAllQuestion.cshtml",
+              "RelativeToolTip": "PRN221_Project\\Pages\\QuestionPage\\ViewAllQuestion.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-31T07:36:33.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ListSubject.cshtml",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\SubjectPage\\ListSubject.cshtml",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\Admin\\SubjectPage\\ListSubject.cshtml",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\SubjectPage\\ListSubject.cshtml",
+              "RelativeToolTip": "PRN221_Project\\Pages\\Admin\\SubjectPage\\ListSubject.cshtml",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-31T07:35:33.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ListEnrollCourse.cshtml.cs",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\CoursePage\\ListEnrollCourse.cshtml.cs",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\CoursePage\\ListEnrollCourse.cshtml.cs",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\CoursePage\\ListEnrollCourse.cshtml.cs",
+              "RelativeToolTip": "PRN221_Project\\Pages\\CoursePage\\ListEnrollCourse.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-20T03:07:28.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ListEnrollCourse.cshtml",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\CoursePage\\ListEnrollCourse.cshtml",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\CoursePage\\ListEnrollCourse.cshtml",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\CoursePage\\ListEnrollCourse.cshtml",
+              "RelativeToolTip": "PRN221_Project\\Pages\\CoursePage\\ListEnrollCourse.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-20T03:07:28.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ListCourse.cshtml",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\CoursePage\\ListCourse.cshtml",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\Admin\\CoursePage\\ListCourse.cshtml",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\CoursePage\\ListCourse.cshtml",
+              "RelativeToolTip": "PRN221_Project\\Pages\\Admin\\CoursePage\\ListCourse.cshtml",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAAIMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-20T03:07:28.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DeleteCourse.cshtml",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\CoursePage\\DeleteCourse.cshtml",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\Admin\\CoursePage\\DeleteCourse.cshtml",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\CoursePage\\DeleteCourse.cshtml",
+              "RelativeToolTip": "PRN221_Project\\Pages\\Admin\\CoursePage\\DeleteCourse.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-23T13:10:45.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UpdateCourse.cshtml",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\CoursePage\\UpdateCourse.cshtml",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\CoursePage\\UpdateCourse.cshtml",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\CoursePage\\UpdateCourse.cshtml",
+              "RelativeToolTip": "PRN221_Project\\Pages\\CoursePage\\UpdateCourse.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-31T07:30:20.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CourseDetails.cshtml",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\CoursePage\\CourseDetails.cshtml",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\CoursePage\\CourseDetails.cshtml",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\CoursePage\\CourseDetails.cshtml",
+              "RelativeToolTip": "PRN221_Project\\Pages\\CoursePage\\CourseDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-31T07:29:52.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EditQuestion.cshtml.cs",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\QuestionPage\\EditQuestion.cshtml.cs",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\Admin\\QuestionPage\\EditQuestion.cshtml.cs",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\QuestionPage\\EditQuestion.cshtml.cs",
+              "RelativeToolTip": "PRN221_Project\\Pages\\Admin\\QuestionPage\\EditQuestion.cshtml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-23T13:56:46.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Index.cshtml",
+              "RelativeToolTip": "PRN221_Project\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-28T14:29:10.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UpdateAccount.cshtml",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\AccountPage\\UpdateAccount.cshtml",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\Admin\\AccountPage\\UpdateAccount.cshtml",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\AccountPage\\UpdateAccount.cshtml",
+              "RelativeToolTip": "PRN221_Project\\Pages\\Admin\\AccountPage\\UpdateAccount.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-23T16:51:42.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UpdateSubject.cshtml.cs",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\SubjectPage\\UpdateSubject.cshtml.cs",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\Admin\\SubjectPage\\UpdateSubject.cshtml.cs",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\SubjectPage\\UpdateSubject.cshtml.cs",
+              "RelativeToolTip": "PRN221_Project\\Pages\\Admin\\SubjectPage\\UpdateSubject.cshtml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-23T13:55:57.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UpdateSubject.cshtml",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\SubjectPage\\UpdateSubject.cshtml",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\Admin\\SubjectPage\\UpdateSubject.cshtml",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\SubjectPage\\UpdateSubject.cshtml",
+              "RelativeToolTip": "PRN221_Project\\Pages\\Admin\\SubjectPage\\UpdateSubject.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-23T13:55:54.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ListCourse.cshtml.cs",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\CoursePage\\ListCourse.cshtml.cs",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\Admin\\CoursePage\\ListCourse.cshtml.cs",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\CoursePage\\ListCourse.cshtml.cs",
+              "RelativeToolTip": "PRN221_Project\\Pages\\Admin\\CoursePage\\ListCourse.cshtml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-20T03:07:28.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EditQuestion.cshtml",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\QuestionPage\\EditQuestion.cshtml",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\Admin\\QuestionPage\\EditQuestion.cshtml",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\QuestionPage\\EditQuestion.cshtml",
+              "RelativeToolTip": "PRN221_Project\\Pages\\Admin\\QuestionPage\\EditQuestion.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-23T13:56:43.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpdateAccount.cshtml.cs",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\AccountPage\\UpdateAccount.cshtml.cs",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\Admin\\AccountPage\\UpdateAccount.cshtml.cs",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\AccountPage\\UpdateAccount.cshtml.cs",
+              "RelativeToolTip": "PRN221_Project\\Pages\\Admin\\AccountPage\\UpdateAccount.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-23T16:51:44.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AddQuestion.cshtml.cs",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\QuestionPage\\AddQuestion.cshtml.cs",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\Admin\\QuestionPage\\AddQuestion.cshtml.cs",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\QuestionPage\\AddQuestion.cshtml.cs",
+              "RelativeToolTip": "PRN221_Project\\Pages\\Admin\\QuestionPage\\AddQuestion.cshtml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-23T14:15:26.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DeleteCourse.cshtml.cs",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\CoursePage\\DeleteCourse.cshtml.cs",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\Admin\\CoursePage\\DeleteCourse.cshtml.cs",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\CoursePage\\DeleteCourse.cshtml.cs",
+              "RelativeToolTip": "PRN221_Project\\Pages\\Admin\\CoursePage\\DeleteCourse.cshtml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-23T13:10:47.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\appsettings.json",
+              "RelativeDocumentMoniker": "PRN221_Project\\appsettings.json",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\appsettings.json",
+              "RelativeToolTip": "PRN221_Project\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-01-20T03:08:00.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DetailCourse.cshtml.cs",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\CoursePage\\DetailCourse.cshtml.cs",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\CoursePage\\DetailCourse.cshtml.cs",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\CoursePage\\DetailCourse.cshtml.cs",
+              "RelativeToolTip": "PRN221_Project\\Pages\\CoursePage\\DetailCourse.cshtml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-20T03:07:28.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AddCourse.cshtml",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\CoursePage\\AddCourse.cshtml",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\CoursePage\\AddCourse.cshtml",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\CoursePage\\AddCourse.cshtml",
+              "RelativeToolTip": "PRN221_Project\\Pages\\CoursePage\\AddCourse.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-20T03:07:28.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ListQuestion.cshtml.cs",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\QuestionPage\\ListQuestion.cshtml.cs",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\Admin\\QuestionPage\\ListQuestion.cshtml.cs",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\QuestionPage\\ListQuestion.cshtml.cs",
+              "RelativeToolTip": "PRN221_Project\\Pages\\Admin\\QuestionPage\\ListQuestion.cshtml.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAzwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-20T03:07:28.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ListSubject.cshtml",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\SubjectPage\\ListSubject.cshtml",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\SubjectPage\\ListSubject.cshtml",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\SubjectPage\\ListSubject.cshtml",
+              "RelativeToolTip": "PRN221_Project\\Pages\\SubjectPage\\ListSubject.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-20T03:07:28.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ListAccount.cshtml.cs",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\AccountPage\\ListAccount.cshtml.cs",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\Admin\\AccountPage\\ListAccount.cshtml.cs",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\AccountPage\\ListAccount.cshtml.cs",
+              "RelativeToolTip": "PRN221_Project\\Pages\\Admin\\AccountPage\\ListAccount.cshtml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-20T03:07:28.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PRN221_Project\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-20T03:07:28.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\Login.cshtml",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Login.cshtml",
+              "RelativeToolTip": "PRN221_Project\\Pages\\Login.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-20T03:07:28.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\Login.cshtml.cs",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "PRN221_Project\\Pages\\Login.cshtml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-20T03:07:28.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ListAccount.cshtml",
+              "DocumentMoniker": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\AccountPage\\ListAccount.cshtml",
+              "RelativeDocumentMoniker": "PRN221_Project\\Pages\\Admin\\AccountPage\\ListAccount.cshtml",
+              "ToolTip": "D:\\FU_Learning\\FINAL\\PRN221_Project\\PRN221_Project\\PRN221_Project\\PRN221_Project\\Pages\\Admin\\AccountPage\\ListAccount.cshtml",
+              "RelativeToolTip": "PRN221_Project\\Pages\\Admin\\AccountPage\\ListAccount.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-20T03:07:28.644Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 224,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

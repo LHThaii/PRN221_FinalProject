@@ -1,0 +1,36 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.regi {
+    display: flex;
+    text-align: center;
+    width: 100%;
+}
+
+.ha {
+    margin: 5px;
+    margin-bottom:15px;
+}
+
+.ah {
+    margin: 10px;
+}
+.ah1 {
+    margin-bottom: 20px;
+}

@@ -1,0 +1,81 @@
+﻿@page
+@model PRN221_Project.Pages.SubjectPage.SubjectDetailsModel
+@{
+}
+
+<div class="container-fluid page-header" style="margin-bottom: 90px;">
+    <div class="container">
+        <div class="d-flex flex-column justify-content-center" style="min-height: 300px">
+            <h3 class="display-4 text-white text-uppercase">Single</h3>
+            <div class="d-inline-flex text-white">
+                <p class="m-0 text-uppercase"><a class="text-white" href="">Home</a></p>
+                <i class="fa fa-angle-double-right pt-1 px-3"></i>
+                <p class="m-0 text-uppercase">Single</p>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Header End -->
+<!-- Detail Start -->
+<div class="container-fluid py-5">
+    <div class="container py-5">
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="mb-5">
+                    <h6 class="text-primary mb-3">Jan 01, 2050</h6>
+                    <h1 class="mb-5">@Model.Subject.Name - @Model.Subject.Code</h1>
+                    @*<a asp-page="UpdateSubject" asp-route-subid="@Model.Subject.SubjectId" class="btn btn-primary mb-2">Edit</a>*@
+                    <img class="img-fluid rounded w-100 mb-4" src="~/img/carousel-1.jpg" alt="Image">
+                    <p>
+                        @Model.Subject.Description
+                    </p>
+
+                </div>
+
+
+            </div>
+
+            <div class="col-lg-4 mt-5 mt-lg-0">
+                <!-- Author Bio -->
+                <div class="d-flex flex-column text-center bg-dark rounded mb-5 py-5 px-4">
+                    <img src="~/img/user.jpg" class="img-fluid rounded-circle mx-auto mb-3" style="width: 100px;">
+                    <h3 class="text-primary mb-3">@Model.Subject.Profile.Name</h3>
+                    <h3 class="text-uppercase mb-4" style="letter-spacing: 5px;">Tag Cloud</h3>
+                    <p class="text-white m-0">
+                        @Model.Subject.Profile.Birthday
+                    </p>
+                </div>
+
+                <!-- Search Form -->
+                <div class="mb-5">
+                    <form action="">
+                        <div class="input-group">
+                            <input type="text" class="form-control form-control-lg" placeholder="Keyword">
+                            <div class="input-group-append">
+                                <span class="input-group-text bg-transparent text-primary">
+                                    <i class="fa fa-search"></i>
+                                </span>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+
+                <!-- Category List -->
+                <div class="mb-5">
+                    <h3 class="text-uppercase mb-4" style="letter-spacing: 5px;">Course </h3>
+                    <ul class="list-group list-group-flush">
+                        @foreach (var item in Model.listCourse)
+                        {
+                            <li class="list-group-item d-flex justify-content-between align-items-center px-0">
+                                <a href="../CoursePage/DetailCourse?id=@item.CourseId" class="text-decoration-none h6 m-0">@item.Title</a>
+                                <span class="badge badge-primary badge-pill">98</span>
+                            </li>
+                        }
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Detail End -->

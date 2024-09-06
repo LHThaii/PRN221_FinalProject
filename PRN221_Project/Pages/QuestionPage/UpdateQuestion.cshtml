@@ -1,0 +1,34 @@
+﻿@page
+@model PRN221_Project.Pages.QuestionPage.UpdateQuestionModel
+@{
+}
+
+<h3>Update Question</h3>
+<br />
+<form method="post">
+    <div class="form-group">
+        <input asp-for="@Model.question.QuestionId" type="hidden" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Id">
+    </div>
+    <div class="form-group">
+        <label for="exampleInputEmail1">Question</label>
+        <textarea asp-for="@Model.question.QuestionContent" cols="50" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter QuestionContent"></textarea>
+    </div>
+    <div class="form-group">
+        <label>@Html.LabelFor(c=>c.question.CourseId)</label>
+        <select asp-for="@Model.question.CourseId" class="custom-select2 form-control" style="width: 100%; height: 38px;">
+            @foreach (var item in Model.listCourse)
+            {
+                <option value="@item.CourseId">@item.Title</option>
+            }
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="exampleInputEmail1">Answer</label>
+        <input type="text" asp-for="@Model.question.Answer" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Answer>
+    </div>
+    <div class="form-group">
+        <label for="exampleInputEmail1">Status</label>
+        <input type="text" asp-for="@Model.question.Status" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Status>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

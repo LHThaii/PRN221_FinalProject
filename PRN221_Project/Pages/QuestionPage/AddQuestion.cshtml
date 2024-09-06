@@ -1,0 +1,30 @@
+﻿@page
+@model PRN221_Project.Pages.QuestionPage.AddQuestionModel
+@{
+}
+
+<h3>Add new Question</h3>
+<br />
+<form method="post">
+    <div class="form-group">
+        <label for="exampleInputEmail1">Id</label>
+        <input asp-for="@Model.question.QuestionId" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Id">
+    </div>
+    <div class="form-group">
+        <label for="exampleInputEmail1">Question</label>
+        <textarea asp-for="@Model.question.QuestionContent" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter question"></textarea>
+    </div>
+    <div class="form-group">
+        <label for="exampleInputEmail1">Course Id</label>
+        <input asp-for="@Model.question.CourseId" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter course">
+    </div>
+    <div class="form-group">
+        <label for="exampleInputEmail1">Answer </label>
+        <input type="text" asp-for="@Model.question.Answer" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Answer ">
+    </div>
+    <div class="form-group">
+        <label for="exampleInputEmail1">Status</label>
+        <input type="text" asp-for="@Model.question.Status" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Status">
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

@@ -1,0 +1,50 @@
+﻿@page
+@model PRN221_Project.Pages.CoursePage.UpdateCourseModel
+@{
+}
+
+<!-- Contact Start -->
+<div class="container-fluid py-5">
+    <div class="container py-5">
+        <div class="text-center mb-5">
+            <h1>Update Course</h1>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="contact-form bg-secondary rounded p-5">
+                    <div id="success"></div>
+                    <form method="post" name="sentMessage" id="contactForm">
+                        <div class="control-group">
+                            <input asp-for="Course.CourseId" type="hidden" class="form-control border-0 p-4" id="name" placeholder="Subject Name" />
+                            <p class="help-block text-danger"></p>
+                        </div>
+                        <div class="control-group">
+                            <input asp-for="Course.Title" type="text" class="form-control border-0 p-4" id="name" placeholder="Subject Name" required="required" />
+                            <p class="help-block text-danger"></p>
+                        </div>
+                        <div class="control-group">
+                            <input asp-for="Course.Description" type="text" class="form-control border-0 p-4" id="name" placeholder="Subject Name" required="required" />
+                            <p class="help-block text-danger"></p>
+                        </div>
+                        <div class="control-group">
+                            <input asp-for="Course.NumberQuestion" type="text" class="form-control border-0 p-4" id="email" placeholder="Subject Code" required="required" />
+                            <p class="help-block text-danger"></p>
+                        </div>
+                        <div class="control-group">
+                            <input asp-for="Course.ProfileId" type="text" class="form-control border-0 p-4" id="subject" placeholder="Profile" required="required" />
+                            <p class="help-block text-danger"></p>
+                        </div>
+                        <div class="control-group">
+                            <input asp-for="Course.Status" type="text" class="form-control border-0 p-4" id="subject" placeholder="Status" required="required" />
+                            <p class="help-block text-danger"></p>
+                        </div>
+                        <div class="text-center">
+                            <button class="btn btn-primary py-3 px-5" type="submit">Save</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Contact End -->

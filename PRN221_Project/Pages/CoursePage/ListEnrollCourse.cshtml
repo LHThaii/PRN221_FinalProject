@@ -1,0 +1,32 @@
+﻿@page
+@using System.Security.Claims;
+@model PRN221_Project.Pages.CoursePage.ListEnrollCourseModel
+@{
+}
+
+<table class="table" style="margin-top: 100px;">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Course Name</th>
+            <th scope="col">Time Enroll</th>
+            @* <th scope="col">Process</th> *@
+            @* <th scope="col">Number of Question</th> *@
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in @Model.listProfileCourse)
+        {
+            <tr>
+                <th scope="row">@item.Course.CourseId</th>
+                <td><a asp-page="DetailCourse" asp-route-id="@item.Course.CourseId">@item.Course.Title</a></td>
+                <td>@item.TimeEnroll</td>
+                @* <td>@item.Process</td>
+                <td>@item.NumberQuestion</td> *@
+                <td><a asp-page="DetailCourse" asp-page-handler="Unenrolled" asp-route-pid="@User.FindFirst(ClaimTypes.Sid)?.Value" asp-route-id="@item.CourseId">Unenroll</a></td>
+            </tr>
+        }
+
+    </tbody>
+</table>
